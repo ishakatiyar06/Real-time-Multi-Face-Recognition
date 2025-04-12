@@ -38,6 +38,9 @@ This is a real-time multiple face recognition attendance system. The database of
    ![image](https://github.com/user-attachments/assets/de6faf87-024d-43e2-a1ef-92056723dd30)
 3. face_recognition.py
  ![image](https://github.com/user-attachments/assets/737bdbc1-1a0a-4c10-b14e-448593e4347a)
+4. attendance
+   ![image](https://github.com/user-attachments/assets/e192fa14-938c-4aa4-b1f7-7515955f8db8)
+
    
 
 
